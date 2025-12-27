@@ -1,0 +1,6 @@
+
+{
+  "name": "CipherSQLStudio with KT AI",
+  "description": "A browser-based SQL learning platform with real-time execution, interactive schema viewer, and KT AI for intelligent hints.",
+  "requestFramePermissions": []
+}
